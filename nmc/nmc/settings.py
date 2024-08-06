@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-$6qk)v8m$ik8n))xjoh=8y6_y%ao3^l#b$ny7c-!7cg&+&)fyo
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*', 'national-mca-caucus.vercel.app', 'nationalmcacaucus.online']
 
 
 # Application definition
