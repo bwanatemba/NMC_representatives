@@ -1,0 +1,47 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Add Representative</h1>
+<form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    <label>Upload Photo:</label>
+    {{ form.photo }} <br>
+    
+    <label>Name:</label>
+    {{ form.name }} <br>
+    
+    <label>ID Number:</label>
+    {{ form.id_number }} <br>
+    
+    <label>Phone Number:</label>
+    {{ form.phone_number }} <br>
+    
+    <label>Position:</label>
+    {{ form.position }} <br>
+    
+    <label for="id_county">County:</label>
+    {{ form.county }} <br>
+    
+    <label for="id_ward">Ward:</label>
+    {{ form.ward }} <br>
+
+    <button type="submit">Submit</button>
+</form>
+
+<script>
+document.getElementById('id_county').addEventListener('change', function() {
+    var countyId = this.value;
+    var wardSelect = document.getElementById('id_ward');
+
+    fetch(`/wards/${countyId}/`)
+        .then(response => response.json())
+        .then(data => {
+            wardSelect.innerHTML = '';
+            data.forEach(function(ward) {
+                var option = new Option(ward.name, ward.id);
+                wardSelect.add(option);
+            });
+        });
+});
+</script>
+{% endblock %}

@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Representative Table</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Ward</th>
+            <th>Position</th>
+            <th>Phone Number</th>
+            <th>ID Number</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for representative in representatives %}
+        <tr>
+            <td>{{ representative.name }}</td>
+            <td>{{ representative.ward.name }}</td>
+            <td>{{ representative.position.title }}</td>
+            <td>{{ representative.phone_number }}</td>
+            <td>{{ representative.id_number }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+<a href="{% url 'export_representatives_csv' %}" class="btn btn-primary">Export as CSV</a>
+{% endblock %}

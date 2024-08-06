@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+{% block content %}
+
+<h1>Representative List</h1>
+
+{% for ward, representatives in grouped_representatives.items %}
+    <h2>{{ ward.name }}</h2>
+    {% for representative in representatives %}
+        <div class="card mb-3">
+            <div class="row no-gutters">
+                <div class="col-md-4">
+                    <img src="{{ representative.photo.url }}" class="card-img" alt="{{ representative.name }}">
+                </div>
+                <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title">{{ representative.name }}</h5>
+                        <p class="card-text">Position: {{ representative.position.title }}</p>
+                        <p class="card-text">Ward: {{ representative.ward.name }}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+{% endfor %}
+
+{% endblock %}

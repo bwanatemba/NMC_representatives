@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Edit Positions</h1>
+<form method="post">
+    {% csrf_token %}
+    <div class="form-group">
+        <label for="new_position">New Position</label>
+        <input type="text" class="form-control" id="new_position" name="new_position" placeholder="Enter new position">
+    </div>
+    <button type="submit" class="btn btn-primary">Add Position</button>
+</form>
+<hr>
+<h2>Existing Positions</h2>
+<form method="post">
+    {% csrf_token %}
+    <ul class="list-group">
+        {% for position in positions %}
+        <li class="list-group-item">
+            <input type="checkbox" name="positions_to_delete" value="{{ position.id }}"> {{ position.title }}
+        </li>
+        {% endfor %}
+    </ul>
+    <button type="submit" class="btn btn-danger mt-3">Delete Selected</button>
+</form>
+{% endblock %}

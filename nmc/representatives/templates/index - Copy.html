@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Choropleth Map of Kenya</h1>
+<div id="map" style="height: 500px;"></div>
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script>
+    var map = L.map('map').setView([-1.286389, 36.817223], 6);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(map);
+
+    // Load GeoJSON data and add to map
+    // This is just a placeholder, replace with your actual GeoJSON data URL
+    fetch('/static/kenya_wards.geojson')
+        .then(response => response.json())
+        .then(data => {
+            L.geoJSON(data, {
+                style: function(feature) {
+                    return {
+                        color: 'white',
+                        fillColor: feature.properties.hasRepresentative ? 'green' : 'red',
+                        fillOpacity: 0.7
+                    };
+                }
+            }).addTo(map);
+        });
+</script>
+{% endblock %}

@@ -1,0 +1,2528 @@
+{
+  "counties": [
+    {
+      "name": "Mombasa",
+      "code": 1,
+      "constituencies": [
+        {
+          "name": "Mvita",
+          "wards": [
+            "Mji wa Kale / Makadara",
+            "Ganjoni/Shimanzi",
+            "Tudor",
+            "Tononoka",
+            "Majengo"
+          ]
+        },
+        {
+          "name": "Kisauni",
+          "wards": [
+            "Mjambere",
+            "Junda",
+            "Magogoni",
+            "Bamburi",
+            "Shanzu",
+            "Mwakirunge",
+            "Mtopanga"
+          ]
+        },
+        {
+          "name": "Nyali",
+          "wards": [
+            "Kadzandani",
+            "Mkomani",
+            "Kongowea",
+            "Ziwa la Ng'ombe",
+            "Frere Town"
+          ]
+        },
+        {
+          "name": "Changamwe",
+          "wards": [
+            "Changamwe",
+            "Chaani",
+            "Airport",
+            "Kipevu",
+            "Port Reitz"
+          ]
+        },
+        {
+          "name": "Likoni",
+          "wards": [
+            "Shika Adabu",
+            "Bofu",
+            "Likoni",
+            "Mtongwe",
+            "Timbwani"
+          ]
+        },
+        {
+          "name": "Jomvu",
+          "wards": [
+            "Miritini",
+            "Jomvu Kuu",
+            "Mikindani"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kwale",
+      "code": 2,
+      "constituencies": [
+        {
+          "name": "Msambweni",
+          "wards": [
+            "Bongwe/Gombato",
+            "Ukunda",
+            "Kinondo",
+            "Ramisi"
+          ]
+        },
+        {
+          "name": "Lunga Lunga",
+          "wards": [
+            "Dzombo",
+            "Pongwe/Kikoneni",
+            "Mwereni",
+            "Vanga"
+          ]
+        },
+        {
+          "name": "Matuga",
+          "wards": [
+            "Tsimba/Golini",
+            "Waa",
+            "Mkongani",
+            "Kubo South",
+            "Tiwi"
+          ]
+        },
+        {
+          "name": "Kinango",
+          "wards": [
+            "Chengoni/Samburu",
+            "Kinango",
+            "Mackinnon Road",
+            "Ndavaya",
+            "Mwavumbo",
+            "Kasemeni",
+            "Puma"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kilifi",
+      "code": 3,
+      "constituencies": [
+        {
+          "name": "Kilifi North",
+          "wards": [
+            "Mnarani",
+            "Sokoni",
+            "Matsangoni",
+            "Dabaso",
+            "Watamu",
+            "Kibarani",
+            "Tezo"
+          ]
+        },
+        {
+          "name": "Kilifi South",
+          "wards": [
+            "Shimo La Tewa",
+            "Chasimba",
+            "Mwarakaya",
+            "Junju",
+            "Mtepeni"
+          ]
+        },
+        {
+          "name": "Ganze",
+          "wards": [
+            "Ganze",
+            "Bamba",
+            "Jaribuni",
+            "Sokoke"
+          ]
+        },
+        {
+          "name": "Malindi",
+          "wards": [
+            "Malindi Town",
+            "Shella",
+            "Ganda",
+            "Kakuyuni",
+            "Jilore"
+          ]
+        },
+        {
+          "name": "Magarini",
+          "wards": [
+            "Adu",
+            "Gongoni",
+            "Marafa",
+            "Sabaki",
+            "Garashi",
+            "Gongoni"
+
+          ]
+        },
+        {
+          "name": "Kaloleni",
+          "wards": [
+            "Kaloleni",
+            "Mariakani",
+            "Kayafungo",
+            "Mwanamwinga"
+          ]
+        },
+        {
+          "name": "Rabai",
+          "wards": [
+            "Rabai/Kisurutini",
+            "Ruruma",
+            "Kambe/Ribe",
+            "Mariakani"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tana River",
+      "code": 4,
+      "constituencies": [
+        {
+          "name": "Bura",
+          "wards": [
+            "Sala",
+            "Bangale",
+            "Madogo",
+            "Chewani",
+            "Nanighi"
+          ]
+        },
+        {
+          "name": "Galole",
+          "wards": [
+            "Wayu",
+            "Mikinduni",
+            "Galole",
+            "Chalaluma",
+            "Kipini East"
+          ]
+        },
+        {
+          "name": "Garsen",
+          "wards": [
+            "Garsen Central",
+            "Garsen North",
+            "Garsen South",
+            "Garsen West",
+            "Kipini West"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lamu",
+      "code": 5,
+      "constituencies": [
+        {
+          "name": "Lamu East",
+          "wards": [
+            "Faza",
+            "Kiunga",
+            "Basuba",
+            "Hindi"
+          ]
+        },
+        {
+          "name": "Lamu West",
+          "wards": [
+            "Shella",
+            "Mkomani",
+            "Witu",
+            "Hindi"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Taita Taveta",
+      "code": 6,
+      "constituencies": [
+        {
+          "name": "Wundanyi",
+          "wards": [
+            "Wundanyi/Mbale",
+            "Werugha",
+            "Wumingu/Kishushe",
+            "Mwanda/Mgange"
+          ]
+        },
+        {
+          "name": "Voi",
+          "wards": [
+            "Mbololo",
+            "Sagalla",
+            "Kasighau",
+            "Kaloleni/Mghange",
+            "Rukanga"
+          ]
+        },
+        {
+          "name": "Taveta",
+          "wards": [
+            "Chala",
+            "Mahoo",
+            "Bomeni",
+            "Mata",
+            "Taveta"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Garissa",
+      "code": 7,
+      "constituencies": [
+        {
+          "name": "Balambala",
+          "wards": [
+            "Balambala",
+            "Jarajara",
+            "Saka"
+          ]
+        },
+        {
+          "name": "Dadaab",
+          "wards": [
+            "Dertu",
+            "Dadaab",
+            "Damajale",
+            "Liboi"
+          ]
+        },
+        {
+          "name": "Fafi",
+          "wards": [
+            "Fafi",
+            "Nanighi",
+            "Bura",
+            "Difference"
+          ]
+        },
+        {
+          "name": "Ijara",
+          "wards": [
+            "Ijara",
+            "Masalani",
+            "Sangailu",
+            "Kotile"
+          ]
+        },
+        {
+          "name": "Lagdera",
+          "wards": [
+            "Baraki",
+            "Labasigale",
+            "Dertu",
+            "Dadaab"
+          ]
+        },
+        {
+          "name": "Garissa Township",
+          "wards": [
+            "Township",
+            "Iftin",
+            "Abakaile",
+            "Bula Kartasi"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wajir",
+      "code": 8,
+      "constituencies": [
+        {
+          "name": "Wajir East",
+          "wards": [
+            "Wajir East",
+            "Bula Mpya",
+            "Barwaqo",
+            "Wagberi"
+          ]
+        },
+        {
+          "name": "Wajir West",
+          "wards": [
+            "Hadado",
+            "Ganyure/Wagalla",
+            "Arbajahan",
+            "Khorof Harar"
+          ]
+        },
+        {
+          "name": "Wajir North",
+          "wards": [
+            "Bute",
+            "Gurar",
+            "Buna",
+            "Qarsa"
+          ]
+        },
+        {
+          "name": "Wajir South",
+          "wards": [
+            "Leheley",
+            "Diff",
+            "Kotulo",
+            "Habaswein"
+          ]
+        },
+        {
+          "name": "Tarbaj",
+          "wards": [
+            "Tarbaj",
+            "Khorof Harar",
+            "Sarman",
+            "Qone"
+          ]
+        },
+        {
+          "name": "Eldas",
+          "wards": [
+            "Eldas",
+            "Elnur",
+            "Ganyure",
+            "Lakoley South"
+          ]
+        },
+        {
+          "name": "Wajir West",
+          "wards": [
+            "Ganyure/Wagalla",
+            "Arbajahan",
+            "Khorof Harar",
+            "Hadado"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mandera",
+      "code": 9,
+      "constituencies": [
+        {
+          "name": "Mandera East",
+          "wards": [
+            "Township",
+            "Khalalio",
+            "Malkamari",
+            "Derkhale"
+          ]
+        },
+        {
+          "name": "Mandera West",
+          "wards": [
+            "Guticha",
+            "Fincharo",
+            "Wargadud",
+            "Malkamari"
+          ]
+        },
+        {
+          "name": "Mandera North",
+          "wards": [
+            "Elwak North",
+            "Elwak South",
+            "Lafey",
+            "Kutulo"
+          ]
+        },
+        {
+          "name": "Mandera South",
+          "wards": [
+            "Arabia",
+            "Aresa",
+            "Fino",
+            "Alango"
+          ]
+        },
+        {
+          "name": "Mandera Central",
+          "wards": [
+            "Township",
+            "Neboi",
+            "Takaba",
+            "Ashabito"
+          ]
+        },
+        {
+          "name": "Mandera North",
+          "wards": [
+            "Elwak North",
+            "Elwak South",
+            "Lafey",
+            "Kutulo"
+          ]
+        },
+        {
+          "name": "Banisa",
+          "wards": [
+            "Banisa",
+            "Kiliwehiri",
+            "Denub",
+            "Malkamari"
+          ]
+        },
+        {
+          "name": "Lafey",
+          "wards": [
+            "Lafey",
+            "Khalalio",
+            "Fino",
+            "Alango"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Marsabit",
+      "code": 10,
+      "constituencies": [
+        {
+          "name": "Laisamis",
+          "wards": [
+            "Logologo",
+            "Korr/Ngurnit",
+            "Kargi/South Horr",
+            "Lontolio"
+          ]
+        },
+        {
+          "name": "North Horr",
+          "wards": [
+            "Dukana",
+            "Maikona",
+            "North Horr",
+            "Turbi",
+            "Illeret"
+          ]
+        },
+        {
+          "name": "Saku",
+          "wards": [
+            "Sagante/Jaldesa",
+            "Karare",
+            "Saku",
+            "Marsabit Central"
+          ]
+        },
+        {
+          "name": "Moyale",
+          "wards": [
+            "Uran",
+            "Golbo",
+            "Heillu/Manyatta",
+            "Butiye",
+            "Sololo",
+            "Obbu"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Isiolo",
+      "code": 11,
+      "constituencies": [
+        {
+          "name": "Isiolo North",
+          "wards": [
+            "Bulla Pesa",
+            "Bula Salat",
+            "Chari",
+            "Ngaremara"
+          ]
+        },
+        {
+          "name": "Isiolo South",
+          "wards": [
+            "Oldonyiro",
+            "Kinna",
+            "Sericho",
+            "Garba Tula"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kisii",
+      "code": 11,
+      "constituencies": [
+        {
+          "name": "Bonchari",
+          "wards": [
+            "Bomariba",
+            "Bogiakumu",
+            "Bomorenda",
+            "Riana"
+          ]
+        },
+        {
+          "name": "South Mugirango",
+          "wards": [
+            "Tabaka",
+            "Boikang'a",
+            "Bogetenga",
+            "Chitago Borabu",
+            "Moticho",
+            "Getenga"
+          ]
+        },
+        {
+          "name": "Bomachoge Borabu",
+          "wards": [
+            "Bombaba Borabu",
+            "Boochi Borabu",
+            "Bokimonge",
+            "Magenche"
+          ]
+        },
+        {
+          "name": "Bobasi",
+          "wards": [
+            "Masige West",
+            "Masige East",
+            "Basi Central",
+            "Nyacheki",
+            "Bassi Bogetaorio",
+            "Bobasi Chache",
+            "Sameta Mokwerero",
+            "Bobasi Boitangare"
+          ]
+        },
+        {
+          "name": "Bomachoge Chache",
+          "wards": [
+            "Majoge Basi",
+            "Boochi Tendere",
+            "Bosoti Sengera"
+          ]
+        },
+        {
+          "name": "Nyaribari Masaba",
+          "wards": [
+            "Ichuni",
+            "Nyamasibi",
+            "Masimba",
+            "Gesusu",
+            "Kiamokama"
+          ]
+        },
+        {
+          "name": "Nyaribari Chache",
+          "wards": [
+            "Bobaracho",
+            "Kisii Central",
+            "Keumbu",
+            "Kiogoro",
+            "Birongo",
+            "Ibeno"
+          ]
+        },
+        {
+          "name": "Kitutu Chache North",
+          "wards": [
+            "Monyerero",
+            "Sensi",
+            "Marani",
+            "Kegogi"
+          ]
+        },
+        {
+          "name": "Kitutu Chache South",
+          "wards": [
+            "Bogusero",
+            "Bogeka",
+            "Nyakoe",
+            "Kitutu Central",
+            "Nyatieko"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Meru",
+      "code": 12,
+      "constituencies": [
+        {
+          "name": "Igembe Central",
+          "wards": [
+            "Athiru Gaiti",
+            "Akachiu",
+            "Kiegoi/Antubochiu",
+            "Amwathi"
+          ]
+        },
+        {
+          "name": "Igembe North",
+          "wards": [
+            "Njia",
+            "Kiengu/Ethelebe",
+            "Kangeta",
+            "Maua"
+          ]
+        },
+        {
+          "name": "Igembe South",
+          "wards": [
+            "Athiru Ruujine",
+            "Antubochiu",
+            "Akirang'ondu",
+            "Kiegoi/M'Ichungwa"
+          ]
+        },
+        {
+          "name": "Buuri",
+          "wards": [
+            "Timau",
+            "Kisima",
+            "Ruiri/Rwarera",
+            "Buuri"
+          ]
+        },
+        {
+          "name": "Tigania East",
+          "wards": [
+            "Kianjai",
+            "Mikinduri",
+            "Mbeu",
+            "Antubetwe Kiongo"
+          ]
+        },
+                {
+          "name": "Tigania West",
+          "wards": [
+            "Mikinduri",
+            "Kianjai",
+            "Nkuene",
+            "Nkuene"
+          ]
+        },
+        {
+          "name": "North Imenti",
+          "wards": [
+            "Maua",
+            "Kithoka",
+            "Nkubu",
+            "Kibiru"
+          ]
+        },
+        {
+          "name": "South Imenti",
+          "wards": [
+            "Abogeta",
+            "Nkuene",
+            "Mugure",
+            "Muthara"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tharaka Nithi",
+       "code": 13,
+            "constituencies": [
+                {
+                    "name": "Tharaka",
+                    "wards": [
+                        "Chiakariga",
+                        "Gatue",
+                        "Gikingo",
+                        "Kamarandi / Kamanyaki",
+                        "Kanjoro",
+                        "Kathangachini",
+                        "Maragwa",
+                        "Marimanti",
+                        "Nkondi",
+                        "Ntugi",
+                        "Tunyai",
+                        "Turima"
+                    ]
+                },
+                {
+                    "name": "Chuka/Igambang'ombe",
+                    "wards": [
+                        "Chuka",
+                        "Igambang'ombe",
+                        "Gikondi",
+                        "Muthambi",
+                        "Kibung'uri",
+                        "Karingani",
+                        "Gikambura",
+                        "Kangaru"
+                    ]
+                },
+                {
+                    "name": "Maara",
+                    "wards": [
+                        "Maara",
+                        "Mugwe",
+                        "Mitheru",
+                        "Kangaru",
+                        "Gikuru",
+                        "Muthambi",
+                        "Kangundo"
+                    ]
+                }
+            ]
+        },
+    {
+      "name": "Embu",
+      "code": 14,
+      "constituencies": [
+        {
+          "name": "Manyatta",
+          "wards": [
+            "Manyatta",
+            "Kibugu",
+            "Kithimu",
+            "Ngandori"
+          ]
+        },
+        {
+          "name": "Runyenjes",
+          "wards": [
+            "Runyenjes",
+            "Kangaru",
+            "Kagaari South",
+            "Kagaari North"
+          ]
+        },
+        {
+          "name": "Mbeere South",
+          "wards": [
+            "Mbeere South",
+            "Mbeere North",
+            "Kangaru",
+            "Muthambi"
+          ]
+        },
+        {
+          "name": "Mbeere North",
+          "wards": [
+            "Mbeere North",
+            "Gachoka",
+            "Mwea",
+            "Kangaru"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nakuru",
+      "code": 32,
+      "constituencies": [
+        {
+          "name": "Nakuru Town East",
+          "wards": [
+            "Nakuru East",
+            "Kivumbini",
+            "Central",
+            "Madaraka"
+          ]
+        },
+        {
+          "name": "Nakuru Town West",
+          "wards": [
+            "Nakuru West",
+            "London",
+            "Kivumbini",
+            "Madaraka"
+          ]
+        },
+        {
+          "name": "Rongai",
+          "wards": [
+            "Rongai",
+            "Njoro",
+            "Molo",
+            "Kuresoi"
+          ]
+        },
+        {
+          "name": "Subukia",
+          "wards": [
+            "Subukia",
+            "Kiptagich",
+            "Njoro",
+            "Molo"
+          ]
+        },
+        {
+          "name": "Gilgil",
+          "wards": [
+            "Gilgil",
+            "Kikopey",
+            "Kiamaina",
+            "Njoro"
+          ]
+        },
+        {
+          "name": "Molo",
+          "wards": [
+            "Molo",
+            "Rongai",
+            "Njoro",
+            "Kuresoi"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kajiado",
+      "code": 34,
+      "constituencies": [
+        {
+          "name": "Kajiado North",
+          "wards": [
+            "Kajiado North",
+            "Ngong",
+            "Kangundo",
+            "Kajiado"
+          ]
+        },
+        {
+          "name": "Kajiado Central",
+          "wards": [
+            "Kajiado Central",
+            "Isinya",
+            "Kangundo",
+            "Kajiado"
+          ]
+        },
+        {
+          "name": "Kajiado South",
+          "wards": [
+            "Kajiado South",
+            "Kitengela",
+            "Kangundo",
+            "Kajiado"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kericho",
+      "code": 35,
+      "constituencies": [
+        {
+          "name": "Ainamoi",
+          "wards": [
+            "Ainamoi",
+            "Kapsuser",
+            "Kapsowar",
+            "Kapsaret"
+          ]
+        },
+        {
+          "name": "Kapsoit",
+          "wards": [
+            "Kapsoit",
+            "Kipkelion",
+            "Kapsowar",
+            "Kapsaret"
+          ]
+        },
+        {
+          "name": "Bomet",
+          "wards": [
+            "Bomet",
+            "Chepalungu",
+            "Kapsowar",
+            "Kapsaret"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bomet",
+      "code": 36,
+      "constituencies": [
+        {
+          "name": "Bomet Central",
+          "wards": [
+            "Bomet Central",
+            "Chepalungu",
+            "Kapsowar",
+            "Kapsaret"
+          ]
+        },
+        {
+          "name": "Bomet East",
+          "wards": [
+            "Bomet East",
+            "Kapsowar",
+            "Kapsaret",
+            "Chepalungu"
+          ]
+        },
+        {
+          "name": "Bomet West",
+          "wards": [
+            "Bomet West",
+            "Chepalungu",
+            "Kapsowar",
+            "Kapsaret"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nyandarua",
+      "code": 18,
+      "constituencies": [
+        {
+          "name": "Kinangop",
+          "wards": [
+            "Engineer",
+            "Gathara",
+            "North Kinangop",
+            "Murungaru",
+            "Njabini/Kiburu",
+            "Nyakio",
+            "Githabai",
+            "Magumu"
+          ]
+        },
+        {
+          "name": "Kipipiri",
+          "wards": [
+            "Wanjohi",
+            "Kipipiri",
+            "Geta",
+            "Githioro"
+          ]
+        },
+        {
+          "name": "Ol Kalou",
+          "wards": [
+            "Karau",
+            "Kanjuiri Range",
+            "Mirangine",
+            "Kaimbaga",
+            "Rurii"
+          ]
+        },
+        {
+          "name": "Ol Joro Orok",
+          "wards": [
+            "Gathanji",
+            "Gatimu ",
+            "Weru",
+            "Charagita"
+          ]
+        },
+        {
+          "name": "Ndaragwa",
+          "wards": [
+            "Leshau Pondo",
+            "Kiriita",
+            "Central",
+            "Shamata"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Muranga",
+      "code": 18,
+      "constituencies": [
+        {
+          "name": "Kangema",
+          "wards": [
+            "Kanyenya-ini",
+            "Muguru",
+            "Rwathia"
+          ]
+        },
+        {
+          "name": "Mathioya",
+          "wards": [
+            "Gitugi",
+            "Kiru",
+            "Kamacharia"
+          ]
+        },
+        {
+          "name": "Kiharu",
+          "wards": [
+            "Wangu",
+            "Mugoiri",
+            "Mbiri",
+            "Township",
+            "Murarandia",
+            "Gaturi"
+          ]
+        },
+        {
+          "name": "Kigumo",
+          "wards": [
+            "Kahumbu",
+            "Muthithi",
+            "Kigumo",
+            "Kangari",
+            "Kinyona"
+          ]
+        },
+        {
+          "name": "Nyandarua North",
+          "wards": [
+            "Nyandarua North",
+            "Ndaragwa",
+            "Kiriita",
+            "Kipipiri"
+          ]
+        },
+        {
+          "name": "Maragwa",
+          "wards": [
+            "Kimorori/Wempa",
+            "Makuyu",
+            "Kambiti",
+            "Kamahuha",
+            "Ichagaki",
+            "Nginda"
+          ]
+        },
+        {
+          "name": "Kandara",
+          "wards": [
+            "Ng'araria",
+            "Muruka",
+            "Kagundu-ini",
+            "Gaichanjiru",
+            "Ithiru",
+            "Ruchu"
+          ]
+        },
+        {
+          "name": "Gatanga",
+          "wards": [
+            "Ithanga",
+            "Kakuzi/Mitubiri",
+            "Mugumo-ini",
+            "Kihumbu-ini",
+            "Gatanga",
+            "Kariara"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nyeri",
+      "code": 19,
+      "constituencies": [
+        {
+          "name": "Tetu",
+          "wards": [
+            "Dedan Kimathi",
+            "Wamagana",
+            "Aguthi Gaaki"
+          ]
+        },
+        {
+          "name": "Kieni",
+          "wards": [
+            "Mweiga",
+            "Naromoru/Kiamathaga",
+            "Mwiyogo/Endarasha",
+            "Mugunda",
+            "Gatarakwa",
+            "Thegu River",
+            "Kabaru",
+            "Gakawa"
+          ]
+        },
+        {
+          "name": "Mathira",
+          "wards": [
+            "Magutu",
+            "Ruguru",
+            "Iriaini",
+            "Konyu",
+            "Kirimukuyu",
+            "Karatina Town"
+          ]
+        },
+        {
+          "name": "Mukurweini",
+          "wards": [
+            "Gikondi",
+            "Rugi",
+            "Mukurwe-ini West",
+            "Mukurwe-ini Central"
+          ]
+        },
+        {
+          "name": "Nyeri Town",
+          "wards": [
+            "Kiganjo/Mathari",
+            "Rware",
+            "Gatitu/Muruguru",
+            "Ruring'u",
+            "Kamakwa/Mukaro"
+          ]
+        },
+        {
+          "name": "Othaya",
+          "wards": [
+            "Mahiga",
+            "Iria-Ini",
+            "Chinga",
+            "Karima"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kirinyaga",
+      "code": 20,
+      "constituencies": [
+        {
+          "name": "Kirinyaga Central",
+          "wards": [
+            "Kirinyaga Central",
+            "Kianyaga",
+            "Kibingoti",
+            "Ngariama"
+          ]
+        },
+        {
+          "name": "Kirinyaga East",
+          "wards": [
+            "Kirinyaga East",
+            "Mwea",
+            "Ngariama",
+            "Kibingoti"
+          ]
+        },
+        {
+          "name": "Kirinyaga West",
+          "wards": [
+            "Kirinyaga West",
+            "Kibingoti",
+            "Ngariama",
+            "Kianyaga"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Laikipia",
+      "code": 31,
+      "constituencies": [
+        {
+          "name": "Laikipia North",
+          "wards": [
+            "Laikipia North",
+            "Rumuruti",
+            "Nanyuki",
+            "Ngobit"
+          ]
+        },
+        {
+          "name": "Laikipia West",
+          "wards": [
+            "Laikipia West",
+            "Nanyuki",
+            "Ngobit",
+            "Rumuruti"
+          ]
+        },
+        {
+          "name": "Laikipia East",
+          "wards": [
+            "Laikipia East",
+            "Nanyuki",
+            "Ngobit",
+            "Rumuruti"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nairobi",
+      "code": 47,
+      "constituencies": [
+        {
+          "name": "Kamukunji",
+          "wards": [
+            "Kamukunji",
+            "Pumwani",
+            "Eastleigh North",
+            "Eastleigh South"
+          ]
+        },
+        {
+          "name": "Starehe",
+          "wards": [
+            "Starehe",
+            "Ngara",
+            "Mbotela",
+            "Pangani"
+          ]
+        },
+        {
+          "name": "Lang'ata",
+          "wards": [
+            "Lang'ata",
+            "Karen",
+            "Nairobi West",
+            "Nairobi South"
+          ]
+        },
+        {
+          "name": "Westlands",
+          "wards": [
+            "Westlands",
+            "Kilimani",
+            "Parklands",
+            "Lavington"
+          ]
+        },
+        {
+          "name": "Ruaraka",
+          "wards": [
+            "Ruaraka",
+            "Kibra",
+            "Mathare",
+            "Dandora"
+          ]
+        },
+        {
+          "name": "Dagoreti North",
+          "wards": [
+            "Dagoreti North",
+            "Kangemi",
+            "Mutuini",
+            "Kangemi"
+          ]
+        },
+        {
+          "name": "Dagoreti South",
+          "wards": [
+            "Dagoreti South",
+            "Uthiru",
+            "Kangemi",
+            "Mutuini"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Turkana",
+      "code": 23,
+      "constituencies": [
+        {
+          "name": "Turkana Central",
+          "wards": [
+            "Lodwar Township",
+            "Kanamkemer",
+            "Lobokat",
+            "Kochodin"
+          ]
+        },
+        {
+          "name": "Turkana North",
+          "wards": [
+            "Lapur",
+            "Lokitaung",
+            "Nachukenya",
+            "Karebur"
+          ]
+        },
+        {
+          "name": "Turkana West",
+          "wards": [
+            "Kakuma",
+            "Letea",
+            "Songot",
+            "Lopur"
+          ]
+        },
+        {
+          "name": "Turkana South",
+          "wards": [
+            "Kaputir",
+            "Katilu",
+            "Lobuin",
+            "Lokichar"
+          ]
+        },
+        {
+          "name": "Turkana East",
+          "wards": [
+            "Kapedo/Napeitom",
+            "Lokori",
+            "Katilia",
+            "Lokangae"
+          ]
+        },
+        {
+          "name": "Loima",
+          "wards": [
+            "Loima",
+            "Kochodin",
+            "Kululu",
+            "Lorengippi"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "West Pokot",
+      "code": 24,
+      "constituencies": [
+        {
+          "name": "Kapenguria",
+          "wards": [
+            "Kapenguria",
+            "Siyoi",
+            "Endugh",
+            "Riwo"
+          ]
+        },
+        {
+          "name": "Sigor",
+          "wards": [
+            "Sigor",
+            "Sekerr",
+            "Weiwei",
+            "Masool"
+          ]
+        },
+        {
+          "name": "Kacheliba",
+          "wards": [
+            "Kacheliba",
+            "Suam",
+            "Kodich",
+            "Alale"
+          ]
+        },
+        {
+          "name": "Pokot South",
+          "wards": [
+            "Lelan",
+            "Tapach",
+            "Emboput",
+            "Chepareria"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Samburu",
+      "code": 25,
+      "constituencies": [
+        {
+          "name": "Samburu North",
+          "wards": [
+            "Ndoto",
+            "Nachola",
+            "Sasaab",
+            "Lobur"
+          ]
+        },
+        {
+          "name": "Samburu West",
+          "wards": [
+            "Lodokejek",
+            "Suguta Marmar",
+            "Maralal",
+            "Loosuk"
+          ]
+        },
+        {
+          "name": "Samburu East",
+          "wards": [
+            "Wamba East",
+            "Wamba West",
+            "Waso",
+            "Wamba North"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Trans Nzoia",
+      "code": 26,
+      "constituencies": [
+        {
+          "name": "Kwanza",
+          "wards": [
+            "Kwanza",
+            "Bidii",
+            "Endebess",
+            "Sirende"
+          ]
+        },
+        {
+          "name": "Saboti",
+          "wards": [
+            "Saboti",
+            "Tuwan",
+            "Machewa",
+            "Matisi"
+          ]
+        },
+        {
+          "name": "Kiminini",
+          "wards": [
+            "Kiminini",
+            "Waitaluk",
+            "Sikhendu",
+            "Nabiswa"
+          ]
+        },
+        {
+          "name": "Cherangany",
+          "wards": [
+            "Cherangany",
+            "Makutano",
+            "Chepsiro",
+            "Kapenguria"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Uasin Gishu",
+      "code": 27,
+      "constituencies": [
+        {
+          "name": "Turbo",
+          "wards": [
+            "Turbo",
+            "Huruma",
+            "Ngenyilel",
+            "Kiplombe"
+          ]
+        },
+        {
+          "name": "Soy",
+          "wards": [
+            "Soy",
+            "Kuinet/Kapsuswa",
+            "Kipsomba",
+            "Kamagut"
+          ]
+        },
+        {
+          "name": "Kesses",
+          "wards": [
+            "Kesses",
+            "Kimumu",
+            "Ngeria",
+            "Simat/Kapseret"
+          ]
+        },
+        {
+          "name": "Ainabkoi",
+          "wards": [
+            "Ainabkoi/Olare",
+            "Kaptagat",
+            "Kapsoya",
+            "Racecourse"
+          ]
+        },
+        {
+          "name": "Moiben",
+          "wards": [
+            "Moiben",
+            "Kimumu",
+            "Tarakwa",
+            "Kipsomba"
+          ]
+        },
+        {
+          "name": "Kapseret",
+          "wards": [
+            "Kapseret",
+            "Simat",
+            "Ngeria",
+            "Cheptiret/Kipchamo"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Elgeyo Marakwet",
+      "code": 28,
+      "constituencies": [
+        {
+          "name": "Keiyo North",
+          "wards": [
+            "Kamariny",
+            "Soy North",
+            "Soy South",
+            "Tambach"
+          ]
+        },
+        {
+          "name": "Keiyo South",
+          "wards": [
+            "Kabiemit",
+            "Soy South",
+            "Chepkorio",
+            "Soy North"
+          ]
+        },
+        {
+          "name": "Marakwet East",
+          "wards": [
+            "Kapyego",
+            "Endo",
+            "Sambirir",
+            "Moiben/Kuserwo"
+          ]
+        },
+        {
+          "name": "Marakwet West",
+          "wards": [
+            "Cherang'any/Chebororwa",
+            "Kapsowar",
+            "Arror",
+            "Kapyego"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nandi",
+      "code": 29,
+      "constituencies": [
+        {
+          "name": "Mosop",
+          "wards": [
+            "Kabiyet",
+            "Kipkaren",
+            "Kaptel/Kamoiywo",
+            "Kapsabet"
+          ]
+        },
+        {
+          "name": "Tinderet",
+          "wards": [
+            "Tinderet",
+            "Kosirai",
+            "Kiborgok",
+            "Songhor/Soba"
+          ]
+        },
+        {
+          "name": "Emgwen",
+          "wards": [
+            "Kapsabet",
+            "Nandi Hills",
+            "Chepkumia",
+            "Kapkangani"
+          ]
+        },
+        {
+          "name": "Aldai",
+          "wards": [
+            "Kobujoi",
+            "Kemeloi/Maraba",
+            "Koyo/Ndurio",
+            "Kabiyet"
+          ]
+        },
+        {
+          "name": "Chesumei",
+          "wards": [
+            "Kapkures",
+            "Koyo",
+            "Kaptel/Kamoiywo",
+            "Kapkangani"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Baringo",
+      "code": 30,
+      "constituencies": [
+        {
+          "name": "Baringo Central",
+          "wards": [
+            "Marigat",
+            "Ilchamus",
+            "Mochongoi",
+            "Kabartonjo"
+          ]
+        },
+        {
+          "name": "Baringo North",
+          "wards": [
+            "Baringo North",
+            "Bartabwa",
+            "Kipsaraman",
+            "Kabarnet"
+          ]
+        },
+        {
+          "name": "Baringo South",
+          "wards": [
+            "Marigat",
+            "Salawa",
+            "Mogotio",
+            "Emining"
+          ]
+        },
+        {
+          "name": "Mogotio",
+          "wards": [
+            "Mogotio",
+            "Emining",
+            "Kisanana",
+            "Kimose"
+          ]
+        },
+        {
+          "name": "Eldama Ravine",
+          "wards": [
+            "Eldama Ravine",
+            "Lembus Perkerra",
+            "Lembus Kwen",
+            "Saimo Soi"
+          ]
+        },
+        {
+          "name": "Tiaty",
+          "wards": [
+            "Tiaty",
+            "Kolowa",
+            "Ribkwo",
+            "Silale"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Laikipia",
+      "code": 31,
+      "constituencies": [
+        {
+          "name": "Laikipia North",
+          "wards": [
+            "Laikipia North",
+            "Rumuruti",
+            "Nanyuki",
+            "Ngobit"
+          ]
+        },
+        {
+          "name": "Laikipia West",
+          "wards": [
+            "Laikipia West",
+            "Nanyuki",
+            "Ngobit",
+            "Rumuruti"
+          ]
+        },
+        {
+          "name": "Laikipia East",
+          "wards": [
+            "Laikipia East",
+            "Nanyuki",
+            "Ngobit",
+            "Rumuruti"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nakuru",
+      "code": 32,
+      "constituencies": [
+        {
+          "name": "Nakuru Town East",
+          "wards": [
+            "Nakuru East",
+            "Kivumbini",
+            "Central",
+            "Madaraka"
+          ]
+        },
+        {
+          "name": "Nakuru Town West",
+          "wards": [
+            "Nakuru West",
+            "London",
+            "Kivumbini",
+            "Madaraka"
+          ]
+        },
+        {
+          "name": "Rongai",
+          "wards": [
+            "Rongai",
+            "Njoro",
+            "Molo",
+            "Kuresoi"
+          ]
+        },
+        {
+          "name": "Subukia",
+          "wards": [
+            "Subukia",
+            "Kiptagich",
+            "Njoro",
+            "Molo"
+          ]
+        },
+        {
+          "name": "Gilgil",
+          "wards": [
+            "Gilgil",
+            "Kikopey",
+            "Kiamaina",
+            "Njoro"
+          ]
+        },
+        {
+          "name": "Molo",
+          "wards": [
+            "Molo",
+            "Rongai",
+            "Njoro",
+            "Kuresoi"
+          ]
+        },
+        {
+          "name": "Kuresoi North",
+          "wards": [
+            "Kuresoi North",
+            "Amalo",
+            "Kiptororo",
+            "Kuresoi"
+          ]
+        },
+        {
+          "name": "Kuresoi South",
+          "wards": [
+            "Kuresoi South",
+            "Keringet",
+            "Kamara",
+            "Kuresoi"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Narok",
+      "code": 33,
+      "constituencies": [
+        {
+          "name": "Narok North",
+          "wards": [
+            "Narok Town",
+            "Olorropil",
+            "Nkareta",
+            "Melili"
+          ]
+        },
+        {
+          "name": "Narok East",
+          "wards": [
+            "Ololunga",
+            "Naroosura",
+            "Suswa",
+            "Mosiro"
+          ]
+        },
+        {
+          "name": "Narok South",
+          "wards": [
+            "Emurua Dikirr",
+            "Mogondo",
+            "Sagamian",
+            "Ilkerin"
+          ]
+        },
+        {
+          "name": "Narok West",
+          "wards": [
+            "Mau",
+            "Nkareta",
+            "Ololulunga",
+            "Olokurto"
+          ]
+        },
+        {
+          "name": "Narok East",
+          "wards": [
+            "Naroosura",
+            "Suswa",
+            "Mosiro",
+            "Ololunga"
+          ]
+        },
+        {
+          "name": "Emurua Dikirr",
+          "wards": [
+            "Emurua Dikirr",
+            "Mogondo",
+            "Sagamian",
+            "Ilkerin"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kajiado",
+      "code": 34,
+      "constituencies": [
+        {
+          "name": "Kajiado North",
+          "wards": [
+            "Kajiado North",
+            "Ngong",
+            "Olkeri",
+            "Oloolua"
+          ]
+        },
+        {
+          "name": "Kajiado Central",
+          "wards": [
+            "Isinya",
+            "Kitengela",
+            "Oloosirkon/Sholinke",
+            "Kenyawa/Poka"
+          ]
+        },
+        {
+          "name": "Kajiado East",
+          "wards": [
+            "Kaputiei North",
+            "Kenyawa/Poka",
+            "Kitengela",
+            "Oloosirkon/Sholinke"
+          ]
+        },
+        {
+          "name": "Kajiado West",
+          "wards": [
+            "Keekonyokie",
+            "Iloodokilani",
+            "Ewuaso Oonkidomg'i",
+            "Dalalekutuk"
+          ]
+        },
+                {
+          "name": "Kajiado South",
+          "wards": [
+            "Kajiado South",
+            "Oloolua",
+            "Ngong",
+            "Matasia"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kitui",
+      "code": 15,
+      "constituencies": [
+        {
+          "name": "Kitui Central",
+          "wards": [
+            "Kitui Town",
+            "Mutonguni",
+            "Kyangwithya East",
+            "Kyangwithya West"
+          ]
+        },
+        {
+          "name": "Kitui South",
+          "wards": [
+            "Kitui South",
+            "Mumoni",
+            "Ikutha",
+            "Mutomo"
+          ]
+        },
+        {
+          "name": "Kitui East",
+          "wards": [
+            "Kitui East",
+            "Nguni",
+            "Kanyangi",
+            "Kangundo"
+          ]
+        },
+        {
+          "name": "Kitui West",
+          "wards": [
+            "Kitui West",
+            "Mwingi Central",
+            "Mwingi North",
+            "Mwingi South"
+          ]
+        },
+        {
+          "name": "Mwingi",
+          "wards": [
+            "Mwingi North",
+            "Mwingi South",
+            "Mwingi Central",
+            "Mwingi West"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Machakos",
+      "code": 16,
+      "constituencies": [
+        {
+          "name": "Machakos Town",
+          "wards": [
+            "Machakos Town",
+            "Mumbuni",
+            "Kangundo",
+            "Matungulu"
+          ]
+        },
+        {
+          "name": "Mavoko",
+          "wards": [
+            "Mavoko",
+            "Athiriver",
+            "Mlolongo",
+            "Syokimau"
+          ]
+        },
+        {
+          "name": "Kangundo",
+          "wards": [
+            "Kangundo",
+            "Kangundo South",
+            "Kangundo North",
+            "Muthwani"
+          ]
+        },
+        {
+          "name": "Matungulu",
+          "wards": [
+            "Matungulu",
+            "Mbiuni",
+            "Kangundo",
+            "Muthwani"
+          ]
+        },
+        {
+          "name": "Yatta",
+          "wards": [
+            "Yatta",
+            "Kangundo",
+            "Matungulu",
+            "Mavoko"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kisumu",
+      "code": 42,
+      "constituencies": [
+        {
+          "name": "Kisumu Central",
+          "wards": [
+            "Railways",
+            "Migosi",
+            "Shauri Moyo Kaloleni",
+            "Market Milimani",
+            "Kondele",
+            "Nyalenda B"
+          ]
+        },
+        {
+          "name": "Kisumu West",
+          "wards": [
+            "South West Kisumu",
+            "Central Kisumu",
+            "Kisumu North",
+            "West Kisumu",
+            "North West Kisumu"
+          ]
+        },
+        {
+          "name": "Seme",
+          "wards": [
+            "West Seme",
+            "Central Seme",
+            "East Seme",
+            "North Seme"
+          ]
+        },
+        {
+          "name": "Nyando",
+          "wards": [
+            "East Kano Wawidhi",
+            "Awasi Onjiko",
+            "Ahero",
+            "Kabonyo Kanyagwal",
+            "Kobura"
+          ]
+        },
+        {
+          "name": "Muhoroni",
+          "wards": [
+            "Miwani",
+            "Ombeyi",
+            "Masogo Nyang'oma",
+            "Chemelil",
+            "Muhoroni Koru"
+          ]
+        },
+        {
+          "name": "Nyakach",
+          "wards": [
+            "South West Nyakach",
+            "North Nyakach",
+            "Central Nyakach",
+            "West Nyakach",
+            "South East Nyakach"
+          ]
+        },
+        {
+          "name": "Kisumu East",
+          "wards": [
+            "Kajulu",
+            "Kolwa East",
+            "Manyatta B",
+            "Nyalenda A",
+            "Kolwa Central"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Homa Bay",
+      "code": 43,
+      "constituencies": [
+        {
+          "name": "Homa Bay Town",
+          "wards": [
+            "Homa Bay Town",
+            "Kanyada",
+            "Kanyaluo",
+            "Kanyamwa"
+          ]
+        },
+        {
+          "name": "Mbita",
+          "wards": [
+            "Mbita",
+            "Rusinga",
+            "Mfangano",
+            "Kaksingri"
+          ]
+        },
+        {
+          "name": "Suba North",
+          "wards": [
+            "Suba North",
+            "Kaksingri",
+            "Kanyamwa",
+            "Rusinga"
+          ]
+        },
+        {
+          "name": "Suba South",
+          "wards": [
+            "Suba South",
+            "Kanyaluo",
+            "Kanyada",
+            "Homa Bay Town"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Migori",
+      "code": 44,
+      "constituencies": [
+        {
+          "name": "Migori",
+          "wards": [
+            "Migori Town",
+            "Awendo",
+            "Uriri",
+            "Rongo"
+          ]
+        },
+        {
+          "name": "Rongo",
+          "wards": [
+            "Rongo",
+            "Kanyamkago",
+            "Kanyaboli",
+            "Awendo"
+          ]
+        },
+        {
+          "name": "Uriri",
+          "wards": [
+            "Uriri",
+            "Nyatike",
+            "Migori",
+            "Kanyamkago"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Siaya",
+      "code": 41,
+      "constituencies": [
+        {
+          "name": "Siaya",
+          "wards": [
+            "Siaya Town",
+            "Ugunja",
+            "Bondo",
+            "Gem"
+          ]
+        },
+        {
+          "name": "Bondo",
+          "wards": [
+            "Bondo",
+            "Ugunja",
+            "Siaya",
+            "Gem"
+          ]
+        },
+        {
+          "name": "Rarieda",
+          "wards": [
+            "Rarieda",
+            "West Ugenya",
+            "East Ugenya",
+            "Siaya"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kakamega",
+      "code": 37,
+      "constituencies": [
+        {
+          "name": "Lugari",
+          "wards": [
+            "Mautuma ",
+            "Lugari",
+            "Lumakanda",
+            "Chekalini"
+            "Chevaywa"
+            "Lwandeti"
+          ]
+        },
+        {
+          "name": "Likuyani",
+          "wards": [
+            "Likuyani",
+            "Sango",
+            "Kongoni",
+            "Nzoia",
+            "Sinoko"
+          ]
+        },
+        {
+          "name": "Malava",
+          "wards": [
+            "West Kabras",
+            "Chemuche",
+            "East Kabras",
+            "Butali Chegulo",
+            "Manda Shivanga",
+            "Shirugu Mugai",
+            "South Kabras"
+          ]
+        },
+        {
+          "name": "Lurambi",
+          "wards": [
+            "Butsotso East",
+            "Butsotso South",
+            "Butsotso Central",
+            "Sheywe",
+            "Mahiakalo",
+            "Shirere"
+          ]
+        },
+        {
+          "name": "Navakholo",
+          "wards": [
+            "Ingotse Matiha",
+            "Shinoyi Shikomari Esumeiya",
+            "Bunyala West",
+            "Bunyala East",
+            "Bunyala Central"
+          ]
+        },
+        {
+          "name": "Mumias West",
+          "wards": [
+            "Mumias Central",
+            "Mumias North",
+            "Etenje",
+            "Musanda"
+          ]
+        },
+        {
+          "name": "Mumias East",
+          "wards": [
+            "Lusheya Lubinu",
+            "Malaha Isongo Makunga",
+            "East Wanga"
+          ]
+        },
+        {
+          "name": "Matungu",
+          "wards": [
+            "Koyonzo",
+            "Kholera",
+            "Khalaba",
+            "Mayoni",
+            "Namamali"
+          ]
+        },
+        {
+          "name": "Butere",
+          "wards": [
+            "Marama West",
+            "Marama Central",
+            "Marenyo Shianda",
+            "Marama North",
+            "Marama South"
+          ]
+        },
+        {
+          "name": "Khwisero",
+          "wards": [
+            "Kisa North",
+            "Kisa East",
+            "Kisa West",
+            "Kisa Central"
+          ]
+        },
+        {
+          "name": "Shinyalu",
+          "wards": [
+            "Isukha North",
+            "Murhanda",
+            "Isukha Central",
+            "Isukha South",
+            "Isukha East",
+            "Isukha West"
+          ]
+        },
+        {
+          "name": "Ikolomani",
+          "wards": [
+            "Idakho South",
+            "Idakho East",
+            "Idakho North",
+            "Idakho Central"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vihiga",
+      "code": 38,
+      "constituencies": [
+        {
+          "name": "Vihiga",
+          "wards": [
+            "Vihiga",
+            "Chavakali",
+            "Sabatia",
+            "Hamisi"
+          ]
+        },
+        {
+          "name": "Hamisi",
+          "wards": [
+            "Hamisi",
+            "Chavakali",
+            "Vihiga",
+            "Sabatia"
+          ]
+        },
+        {
+          "name": "Sabatia",
+          "wards": [
+            "Sabatia",
+            "Vihiga",
+            "Hamisi",
+            "Chavakali"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bungoma",
+      "code": 39,
+      "constituencies": [
+        {
+          "name": "Bungoma",
+          "wards": [
+            "Bungoma Town",
+            "Webuye East",
+            "Webuye West",
+            "Kabuchai"
+          ]
+        },
+        {
+          "name": "Webuye",
+          "wards": [
+            "Webuye",
+            "Bungoma Town",
+            "Kabuchai",
+            "Kanduyi"
+          ]
+        },
+        {
+          "name": "Kanduyi",
+          "wards": [
+            "Kanduyi",
+            "Bungoma Town",
+            "Webuye",
+            "Kabuchai"
+          ]
+        }
+      ]
+    },
+    
+    {
+            "name": "Makueni",
+            "code": 26,
+            "constituencies": [
+                {
+                    "name": "Mbooni",
+                    "wards": [
+                        "Mbooni",
+                        "Tulimani",
+                        "Kithungo/Kitundu",
+                        "Kalawa",
+                        "Kako/Waia",
+                        "Kisau/Kiteta"
+                    ]
+                },
+                {
+                    "name": "Kilome",
+                    "wards": [
+                        "Mukaa/Kitaingo",
+                        "Kilome",
+                        "Kikumini"
+                    ]
+                },
+                {
+                    "name": "Kaiti",
+                    "wards": [
+                        "Kiteta/Kisau",
+                        "Kaiti",
+                        "Ukia",
+                        "Kathonzweni"
+                    ]
+                },
+                {
+                    "name": "Makueni",
+                    "wards": [
+                        "Wote",
+                        "Muvau/Kikumini",
+                        "Mavindini",
+                        "Kitise/Kithuki",
+                        "Kathonzweni",
+                        "Nzaui/Kilili/Kalamba",
+                        "Mbitini"
+                    ]
+                },
+                {
+                    "name": "Kibwezi West",
+                    "wards": [
+                        "Makindu",
+                        "Kikumbulyu North",
+                        "Kikumbulyu South",
+                        "Nguumo",
+                        "Emali/",
+                        "Nguu/Masumba"
+                    ]
+                },
+                {
+                    "name": "Kibwezi East",
+                    "wards": [
+                        "Mtito Andei",
+                        "Kibwezi",
+                        "Nguu/Tawa",
+                        "Thange"
+                    ]
+                }
+            ]
+        },
+    
+    {
+      "name": "Trans Nzoia",
+      "code": 26,
+      "constituencies": [
+        {
+          "name": "Kwanza",
+          "wards": [
+            "Kwanza",
+            "Bidii",
+            "Endebess",
+            "Sirende"
+          ]
+        },
+        {
+          "name": "Saboti",
+          "wards": [
+            "Saboti",
+            "Tuwan",
+            "Machewa",
+            "Matisi"
+          ]
+        },
+        {
+          "name": "Kiminini",
+          "wards": [
+            "Kiminini",
+            "Waitaluk",
+            "Sikhendu",
+            "Nabiswa"
+          ]
+        },
+        {
+          "name": "Cherangany",
+          "wards": [
+            "Cherangany",
+            "Makutano",
+            "Chepsiro",
+            "Kapenguria"
+          ]
+        }
+      ]
+    }
+  ]
+}

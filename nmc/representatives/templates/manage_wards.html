@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<h1>Manage Wards for {{ county.name }}</h1>
+
+<form method="post">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Add Ward</button>
+</form>
+
+<ul>
+    {% for ward in wards %}
+        <li>{{ ward.name }}</li>
+        <!-- You can add options for editing or deleting wards here -->
+    {% endfor %}
+</ul>
+
+<a href="{% url 'manage_counties' %}">Back to Counties</a>
+{% endblock %}

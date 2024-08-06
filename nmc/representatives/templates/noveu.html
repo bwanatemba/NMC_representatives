@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <!-- Basic -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">   
+   
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+ 
+     <!-- Site Metas -->
+    <title>National MCA Caucus- Learn. Empower. Inform</title>  
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    {% load static %}
+
+    <!-- Site Icons -->
+    <link rel="shortcut icon" href="{% static 'images/favicon.ico' %}" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="{% static 'images/apple-touch-icon.png' %}">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
+    <!-- Site CSS -->
+    <link rel="stylesheet" href="{% static 'style.css' %}">
+    <!-- Colors CSS -->
+    
+    <!-- ALL VERSION CSS -->
+    <link rel="stylesheet" href="{% static 'css/versions.css' %}">
+    <!-- Responsive CSS -->
+    <link rel="stylesheet" href="{% static 'css/responsive.css' %}">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{% static 'css/custom.css' %}">
+
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+<body class="politics_version">
+
+    <!-- LOADER -->
+    <div id="preloader">
+        <div id="main-ld">
+			<div id="loader"></div>  
+		</div>
+    </div><!-- end loader -->
+    <!-- END LOADER -->
+
+    <div class="topbar text-center hidden-xs">
+        <p>Address: The Base Building, P.O Box: 123 Nairobi, Kenya. | Phone Number: 0712337845</p>
+    </div>
+
+    <header class="header header_style_01">
+        <nav class="megamenu navbar navbar-default">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="index.html"><img src="{% static 'images/logos/logo.png' %}" alt="image"></a>
+                </div>
+                <div id="navbar" class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a data-scroll-nav="0" href="#main-banner" class="active">Home</a></li>
+                        <li><a data-scroll-nav="1" href="#about">About Us</a></li>
+                        <li><a data-scroll-nav="2" href="#map">Map</a></li>
+                        <li><a data-scroll-nav="3" href="#representatives">Our Representatives</a></li>
+                        <li><a data-scroll-nav="4" href="#contact">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+	
+	<div id="main-banner" class="banner-one" data-scroll-index="0">
+		<div data-src="{% static 'uploads/slide-1.jpg' %}">
+			<div class="camera_caption">
+				<div class="container">
+					<h1 class="wow fadeInUp animated">National MCA Caucus</h1>
+					<p class="wow fadeInUp animated" data-wow-delay="0.2s">A critical forum for collaboration among MCAs from various counties, fostering dialogue and sharing best practices</p>
+					<a data-scroll href="#about" class="btn btn-light btn-radius btn-brd grd1">About Us</a>
+				</div> <!-- /.container -->
+			</div> <!-- /.camera_caption -->
+		</div>
+	</div> <!-- /#theme-main-banner -->
+
+
+    <div class="section nopad">
+        <img src="uploads/" alt="" class="img-responsive">
+    </div>
+
+    <div id="about" data-scroll-index="1" class="section lb">
+        <div class="container">
+            <div class="section-title text-left">
+                <h3>About Us</h3>
+                <p class="lead">Welcome to the National MCA Caucus website, the premier platform for Members of County Assemblies (MCAs) across Kenya. Our mission is to unite and empower MCAs to effectively serve their constituents and enhance governance at the county level.</p>
+            </div><!-- end title -->
+
+            <div class="row">
+				<div class="col-md-5">
+                    <div class="issuse-wrap2 clearfix">
+                        <img src="{% static 'uploads/about_04.jpg' %}" alt="" class="img-responsive img-rounded">
+                        <h4>"Alone, we can do so little; together, we can do so much”</h4>
+                        <p>The National MCA Caucus serves as a critical forum for collaboration among MCAs from various counties, fostering dialogue and sharing best practices. We aim to strengthen the legislative framework and advocate for the interests of our members, ensuring that the voices of the people are heard and represented.</p>
+                    </div><!-- end issue -->
+                </div><!-- end col -->
+                <div class="col-md-7">
+                    <div class="issuse-wrap clearfix">
+                        <img src="{% static 'uploads/issue_01.jpg' %}" alt="" class="img-responsive img-rounded alignleft">
+                        <h4>Advocacy</h4>
+                        <p>We advocate for the rights and welfare of MCAs, pushing for better terms of service, including salary reviews, office allowances, and financial autonomy.</p>
+                    </div><!-- end issue -->
+
+                    <div class="issuse-wrap clearfix">
+                        <img src="{% static 'uploads/issue_02.jpg' %}" alt="" class="img-responsive img-rounded alignleft">
+                        <h4>Capacity Building</h4>
+                        <p>We provide training and resources to enhance the skills and effectiveness of MCAs in their legislative roles.</p>
+                    </div><!-- end issue -->
+
+                    <div class="issuse-wrap clearfix">
+                        <img src="{% static 'uploads/issue_03.jpg' %}" alt="" class="img-responsive img-rounded alignleft">
+                        <h4>Networking</h4>
+                        <p>Our caucus facilitates networking opportunities among MCAs, promoting collaboration and the sharing of experiences.</p>
+                    </div><!-- end issue -->
+
+                    <div class="issuse-wrap lastchild clearfix">
+                        <img src="{% static 'uploads/issue_04.jpg' %}" alt="" class="img-responsive img-rounded alignleft">
+                        <h4>Policy Development</h4>
+                        <p>We engage in policy discussions that impact our counties, ensuring that our members contribute to shaping legislation that benefits the public.</p>
+                    </div><!-- end issue -->
+                </div><!-- end col -->
+            </div><!-- end row -->
+        </div><!-- end container -->
+    </div><!-- end section -->
+
+    <div id="map" data-scroll-index="2" class="section wb">
+        <div class="container">
+            <div class="section-title text-center">
+                <h3>National MCA Caucus Leadership: Sub- County Map</h3>
+                <p class="lead">This map shows the positions in each sub-county in Kenya where the NMC Leadership is present.</p>
+            </div><!-- end title -->
+
+            <div class="row">
+                
+                <iframe title="National MCA Caucus Leadership: Sub- County" aria-label="Map" id="datawrapper-chart-1ACSm" src="https://datawrapper.dwcdn.net/1ACSm/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="820" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+                
+
+            </div><!-- end row -->
+        </div><!-- end container -->
+    </div><!-- end section -->
+
+	
+	<div id="representatives" data-scroll-index="3" class="section lb">
+		<div class="container">
+			<div class="section-title text-center">
+                <h3>Our Representatives</h3>
+                <p class="lead">Membership in the National MCA Caucus is open to all elected MCAs in Kenya. By joining, you will gain access to a wealth of resources, support, and a community of like-minded leaders dedicated to improving the lives of their constituents.</p>
+            </div><!-- end title -->
+			
+			
+			{% block content %}
+
+<h1>Representative List</h1>
+
+{% for ward, representatives in grouped_representatives.items %}
+    <h2>{{ ward.name }}</h2>
+    {% for representative in representatives %}
+        <div class="card mb-3">
+            <div class="row no-gutters">
+                <div class="col-md-4">
+                    <img src="{{ representative.photo.url }}" class="card-img" alt="{{ representative.name }}">
+                </div>
+                <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title">{{ representative.name }}</h5>
+                        <p class="card-text">Position: {{ representative.position.title }}</p>
+                        <p class="card-text">Ward: {{ representative.ward.name }}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+{% endfor %}
+
+{% endblock %}
+			
+			
+		</div>
+	</div>
+
+    <div id="donate" data-scroll-index="4" class="section db">
+        <div class="container">
+            <div class="section-title text-center">
+                <h3>Contact Us</h3>
+                <p class="lead">Stay informed about our activities, upcoming events, and initiatives. Follow us on social media and participate in our forums to make your voice heard.</p>
+            </div><!-- end title -->
+
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="contact_form">
+                        <div id="message"></div>
+                        <form id="contactform" class="row" action="contact.php" name="contactform" method="post">
+                            <fieldset class="row-fluid">
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                    <input type="text" name="first_name" id="first_name" class="form-control" placeholder="First Name">
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                    <input type="text" name="last_name" id="last_name" class="form-control" placeholder="Last Name">
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                    <input type="email" name="email" id="email" class="form-control" placeholder="Your Email">
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                    <input type="text" name="phone" id="phone" class="form-control" placeholder="Your Phone">
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                    <label class="sr-only">Select Service</label>
+                                    <select name="select_service" id="select_service" class="selectpicker form-control" data-style="btn-white">
+                                        <option value="12">Donate For?</option>
+                                        <option value="Political Parties">Political Parties</option>
+                                        <option value="For Politician">For Politician</option>
+                                        <option value="Others">Others</option>
+                                    </select>
+                                </div>
+                                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                    <label class="sr-only">What is max price?</label>
+                                    <select name="select_price" id="select_price" class="selectpicker form-control" data-style="btn-white">
+                                        <option value="$100 - $2000">Sh. 10 - Sh. 100</option>
+                                        <option value="$2000 - $4000">Sh. 100 - Sh. 1000</option>
+                                        <option value="$4000 - $10000">Sh. 1000 - Sh. 10000</option>
+                                    </select>
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                    <textarea class="form-control" name="comments" id="comments" rows="6" placeholder="Why you are donating to us?"></textarea>
+                                </div>
+                                <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 text-center">
+                                    <button type="submit" value="SEND" id="submit" class="btn btn-light btn-radius btn-brd grd1 btn-block">Pay Now via PayPal</button>
+                                </div>
+                            </fieldset>
+                        </form>
+                    </div>
+                </div><!-- end col -->
+            </div><!-- end row -->
+        </div><!-- end container -->
+    </div><!-- end section -->
+
+    <div class="copyrights">
+        <div class="container">
+            <div class="footer-distributed">
+                <div class="footer-left">
+                    <p class="footer-links">
+                        <a href="#main-banner">Home</a>
+                        <a href="#about">About Us</a>
+                        <a href="#map">Map</a>
+                        <a href="#representatives">Our Representatives</a>
+                        <a href="#donate">Contact Us</a>
+                    </p>
+                    <p class="footer-company-name">All Rights Reserved. &copy; 2024 , National MCA Caucus | GitHub : 
+					<a href="https://github.com/bwanatemba">bwanatemba</a></p>
+                </div>
+
+                <div class="footer-right">
+                    <form method="get" action="#">
+                        <input placeholder="Subscribe our newsletter.." name="search">
+                        <i class="fa fa-envelope-o"></i>
+                    </form>
+                </div>
+            </div>
+        </div><!-- end container -->
+    </div><!-- end copyrights -->
+
+    <a href="#" id="scroll-to-top" class="dmtop global-radius"><i class="fa fa-angle-up"></i></a>
+
+    <!-- ALL JS FILES -->
+    <script src="{% static 'js/all.js' %}"></script>
+	<!-- Camera Slider -->
+	<script src="{% static 'js/jquery.mobile.customized.min.js' %}"></script>
+	<script src="{% static 'js/jquery.easing.1.3.js' %}"></script> 
+	<script src="{% static 'js/camera.min.js' %}"></script>
+	<script src="{% static 'js/scrollIt.min.js' %}"></script>
+    <!-- ALL PLUGINS -->
+    <script src="{% static 'js/custom.js' %}"></script>
+    <script src="{% static 'js/jquery.vide.js' %}"></script>
+
+</body>
+</html>
