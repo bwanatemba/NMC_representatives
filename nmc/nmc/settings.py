@@ -83,11 +83,11 @@ WSGI_APPLICATION = 'nmc.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': os.getenv('nmc-database-1'),
-        'USER': os.getenv('nmcpostgresdb'),
-        'PASSWORD': os.getenv('8PyR3Juugi3ZWIslRWBH'),
-        'HOST': os.getenv('nmc-database-1.c92m6gqsqnwo.af-south-1.rds.amazonaws.com'),
-        'PORT': os.getenv('5432'),  # Default port for PostgreSQL
+        'NAME': os.getenv('DB_NAME'),
+        'USER': os.getenv('DB_USER'),
+        'PASSWORD': os.getenv('DB_PASSWORD'),
+        'HOST': os.getenv('DB_HOST'),
+        'PORT': os.getenv('DB_PORT', '5432'),  # Default port for PostgreSQL
     }
 }
 
